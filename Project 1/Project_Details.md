@@ -38,3 +38,4 @@ Ping router_2 from router_1 with a success rate of 100%
 |     switchport mode access     |
 | switchport access vlan vlan_no |
 | ip address ip_add subnet_mask  |
+|           int fa0/0            |
