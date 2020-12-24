@@ -9,3 +9,4 @@ Download the Cisco Packet Tracer [here](https://www.netacad.com/courses/packet-t
 
 ## Projects
   1. Click [This](https://github.com/harshrajbedi/CiscoPKT/tree/main/Project%201) to view my Project 1 Files. This includes all details regarding project. 
+  2. Click [This](https://github.com/harshrajbedi/CiscoPKT/tree/main/Project%201) to view my Project 2 Files. This includes all details regarding project. 
