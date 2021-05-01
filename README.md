@@ -8,9 +8,6 @@ Download the Cisco Packet Tracer Latest Version [here](https://www.netacad.com/c
 
 Download all the Previous Versions of Cisco Packet Tracer [here](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html)
 
-## Purpose of this Repository
-
-
 ## Projects
   1. Click [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Project%201) to view my Project 1 Files. This includes all details regarding project. 
   2. Click [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Project%202) to view my Project 2 Files. This includes all details regarding project. 
