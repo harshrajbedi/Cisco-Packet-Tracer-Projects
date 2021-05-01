@@ -10,5 +10,5 @@ Download all the Previous Versions of Cisco Packet Tracer [here](https://www.com
 
 ## Projects
   1. To see Project 1 (Switch-Router Connection) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Project%201)
-  2. To see Project 2 (Switch-Router Connection) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Project%202) to view my Project 2 Files. This includes all details regarding project. 
-  3. Click [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Intrusion-Detection-System) to view my Intrusion Detection Project  Files. This includes all details regarding project. 
+  2. To see Project 2 (Switch-Router Connection) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Project%202)
+  3. To see Project 3 (Intrusion Detection System) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Intrusion-Detection-System)
