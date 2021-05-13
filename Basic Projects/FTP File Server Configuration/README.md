@@ -21,4 +21,11 @@ In this Project a basic FTP connection is established from two different network
 - In router3 following Networks are attached 
 192.168.2.0, 12.0.0.0, 11.0.0.0
 
-[README.MD WORK IN PROGRESS]
+### Configuring FTP Server
+- Open Server > Config > FTP
+- Here you can see we have username and password column where you can add users in this server.
+- People only with username and password can access this file server.
+- we can give permissions to these users like read, write, delete, rename and list.
+
+
+
