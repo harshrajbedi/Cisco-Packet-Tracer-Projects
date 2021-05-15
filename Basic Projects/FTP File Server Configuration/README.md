@@ -26,6 +26,14 @@ In this Project a basic FTP connection is established from two different network
 - Here you can see we have username and password column where you can add users in this server.
 - People only with username and password can access this file server.
 - we can give permissions to these users like read, write, delete, rename and list.
+- Now our server is finally configured for File Transfer Services.
 
-
-
+### Commands used to upload and download files from server
+- (***dir***) This command is used to check files available on the server. This can also be used to check files on PC as well.
+- (***ftp ip_address***) This command is used to establish a FTP connection between the desired PC let's take example 
+PC1 wants to establish a ftp connection with ftp server for file transfer, from this pc a command will run in command prompt as ftp 100.50.20.3
+This will try to connect wih the server and then it will ask for username and password that's it.
+- (***put file_name_with_extension***) This command will be used when a user want to upload files on the server example,
+a user wants to upload a file with name Test1.txt, he will run a command after ftp connection establishment as put Test1.txt, now the file will be uploaded on the server and anyone of the user of that server can access that file.
+- (***get file_name_with_extension***) This command will be used when a user want to download files from the server example,
+a user wants to download a file with name Test1.txt, he will run a command after ftp connection establishment as get Test1.txt, now the file will be downloaded in his PC.
