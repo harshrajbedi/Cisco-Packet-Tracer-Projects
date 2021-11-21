@@ -44,9 +44,9 @@ Ping test in conducted from PC0 to PC2 i.e. ping from network 1 to network 2
 We successfully ping with 0% loss.
 
 ##### COMMANDS USED IN THIS CONFIGURATION
-en - used to enable the CLI mode
-conf t - used to enter the configuration mode
-int (interface_name) - example [int fa0/1] used to enter into a specific interface
-ip address (ip_add) (subnet_mask) - used to assign ip to a interface
-show ip int brief - to show ip addresses on all the interfaces
+en - used to enable the CLI mode,
+conf t - used to enter the configuration mode,
+int (interface_name) - example [int fa0/1] used to enter into a specific interface,
+ip address (ip_add) (subnet_mask) - used to assign ip to a interface,
+show ip int brief - to show ip addresses on all the interfaces,
 show ip route - to show all the ip routes on this router
