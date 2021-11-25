@@ -23,6 +23,7 @@ Configuring End Devices - PCs
 5. Repeat these steps in other PCs.
 
 > Configuring Switches
+
 We do not need to configure switch as we are just connecting end devices together.
 
 We are not implementing any switch feature here like VLANS.
@@ -62,6 +63,7 @@ All the traffic is going to and from HQ and BR router.
 
 ##### COMMANDS AND NETWORKS USED IN THIS CONFIGURATION
 COMMANDS - 
+
 `en` - used to enable the CLI mode
 
 `conf t` - used to enter the configuration mode
@@ -86,3 +88,26 @@ NETWORKS -
 192.168.3.0 @ Headquater Office.
 
 1.1.1.0 Between Headquater Office and ISP.
+
+##### TO ACCESS THE INTERNET
+To access internet we have to implement NAT (Network Address Translation) which will convert private ip to public ip (which is routable).
+
+Commands to Implement NAT are -
+
+`HQ-Mum(config)#access-list 1 permit 192.168.2.0 0.0.0.255`
+
+`HQ-Mum(config)#access-list 1 permit 192.168.3.0 0.0.0.255`
+
+`HQ-Mum(config)#ip nat inside source list 1 interface se0/1 overload` 
+
+`HQ-Mum(config)#int se0/1`
+
+`HQ-Mum(config-if)#ip nat outside`
+
+`HQ-Mum(config-if)#int fa0/0`
+
+`HQ-Mum(config-if)#ip nat inside`
+
+`HQ-Mum(config-if)#int se0/0`
+
+`HQ-Mum(config-if)#ip nat inside`
