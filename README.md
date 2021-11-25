@@ -8,11 +8,12 @@ Download the Cisco Packet Tracer Latest Version [here](https://www.netacad.com/c
 
 Download all the Previous Versions of Cisco Packet Tracer [here](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html)
 
-## Quick Access to my projects
-  1. Project 1 (Switch-Router Connection) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Project%201)
-  2. Project 2 (Switch-Router Connection) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Project%202)
-  3. (College Project) Project 3 (Intrusion Detection System) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Intrusion-Detection-System)
-  4. Project 4 (FTP File Server Connection) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Basic%20Projects/FTP%20File%20Server%20Configuration)
-  5. Project 5 (Motion Detector and Silent Alert System) Click ---> [This](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/IoT%20Projects/Motion%20Detector%20Alert%20System) 
+## Quick Access to All Projects
+
+  1. (College Project) Intrusion Detection System Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Intrusion-Detection-System)
+  2. FTP File Server Connection (Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Basic%20Projects/FTP%20File%20Server%20Configuration))
+  3. (IoT Project) Motion Detector and Silent Alert System (Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/IoT%20Projects/Motion%20Detector%20Alert%20System)) 
+  4. Static Routing (Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Basic%20Projects/Static%20Configurations%20on%20Routers))
+  5. Default Routing ISP (Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Basic%20Projects/Default%20Routing%20Implementation))
 
 Updating...
