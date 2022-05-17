@@ -8,12 +8,8 @@ Download the Cisco Packet Tracer Latest Version [here](https://www.netacad.com/c
 
 Download all the Previous Versions of Cisco Packet Tracer [here](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html)
 
-## Quick Access to All Projects
+## About This Repository
 
-  1. (College Project) Intrusion Detection System Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Intrusion-Detection-System)
-  2. FTP File Server Connection (Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Basic%20Projects/FTP%20File%20Server%20Configuration))
-  3. (IoT Project) Motion Detector and Silent Alert System (Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/IoT%20Projects/Motion%20Detector%20Alert%20System)) 
-  4. Static Routing (Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Basic%20Projects/Static%20Configurations%20on%20Routers))
-  5. Default Routing ISP (Click -> [Here](https://github.com/harshrajbedi/Cisco-Packet-Tracer-Projects/tree/main/Basic%20Projects/Default%20Routing%20Implementation))
+  This repository contains all the cisco packet tracer essential as well as additional labs which will be very helpful in studying and understanding Cisco Networking Topics. I am a Network Engineer and I have been studying networking since 2020 and i learned about tones of new concepts related to this field and they are very interesting topics to study.
 
-Updating...
+Hope this repository helps you to clear your concepts...
