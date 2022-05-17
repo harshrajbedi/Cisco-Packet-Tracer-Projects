@@ -12,4 +12,4 @@ Download all the Previous Versions of Cisco Packet Tracer [here](https://www.com
 
   This repository contains all the cisco packet tracer essential as well as additional labs which will be very helpful in studying and understanding Cisco Networking Topics. I am a Network Engineer and I have been studying networking since 2020 and i learned about tones of new concepts related to this field and they are very interesting topics to study.
 
-Hope this repository helps you to clear your concepts...
+Hope this repository helps you to clear your theoretical concepts by applying your knowledge in simulated lab environment.
